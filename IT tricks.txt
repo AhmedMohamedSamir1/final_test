@@ -1,0 +1,5 @@
+to disable enternetin any device:
+	- go to network and internet setting
+        - network and sharing center
+        - click on change adapter option (setting)
+        - disable the connection
