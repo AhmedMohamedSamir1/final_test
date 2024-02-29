@@ -3,3 +3,7 @@ to disable enternetin any device:
         - network and sharing center
         - click on change adapter option (setting)
         - disable the connection
+
+
+ahmed
+mohamd
